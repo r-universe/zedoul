@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "refnr"]
+	path = refnr
+	url = https://github.com/zedoul/refnr
+	shallow = true
+	registered = true
