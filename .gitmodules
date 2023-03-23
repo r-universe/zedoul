@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jsonstat"]
+	path = jsonstat
+	url = https://github.com/cran/jsonstat
+	shallow = true
+	registered = true
 [submodule "refnr"]
 	path = refnr
 	url = https://github.com/zedoul/refnr
