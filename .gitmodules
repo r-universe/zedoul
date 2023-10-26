@@ -5,6 +5,3 @@
 [submodule "jsonstat"]
 	path = jsonstat
 	url = https://github.com/cran/jsonstat
-[submodule "refnr"]
-	path = refnr
-	url = https://github.com/zedoul/refnr
